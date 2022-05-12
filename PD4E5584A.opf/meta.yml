@@ -96,3 +96,8 @@ source_metadata:
   reproductionOf: []
 created_at: '2021-12-30T16:29:57.435997'
 last_modified_at: '2021-12-30T16:29:57.436009'
+statistics:
+  total_words: 316347
+  total_non_words: 39707
+quality:
+  non_words_ratio: 0.13
